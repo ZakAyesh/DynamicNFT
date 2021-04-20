@@ -1,0 +1,11 @@
+{
+  "name": "Sleeping Cat",
+  "description": "You opened the box and found a sleeping cat. Looking at it one cannot help but feel at peace.",
+  "image": "https://ipfs.io/ipfs/QmeWK2BwtsEsSmRDMwmwCT5PADbyku2Xik5sXtsVQVC9Gw?filename=HE-SLEEP.jpeg",
+  "attributes": [
+    {
+      "trait-type": "EigenValue",
+      "value": "HE SLEEPS"
+    }
+  ]
+}

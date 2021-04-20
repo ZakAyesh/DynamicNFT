@@ -1,0 +1,11 @@
+{
+  "name": "Schrodinger's NFT Box",
+  "description": "The box is closed. Will he sleep or ATTAC? May the wavefunction collapse in your favor",
+  "image": "https://ipfs.io/ipfs/QmdEgYGCQqt1jqS5YTCQYU84anevKgT8XLMPmVBSMq3K1F?filename=Box.jpeg",
+  "attributes": [
+    {
+      "trait-type": "Wavefuncion",
+      "value": "SLEEP AND ATTAC SUPERPOSITION"
+    }
+  ]
+}

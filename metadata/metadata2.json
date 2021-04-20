@@ -1,0 +1,11 @@
+{
+  "name": "ATTAC CAT",
+  "description": "You opened the box and found a wild ATTAC Cat. The amount of chaos radiating from this cat is incomprehensible.",
+  "image": "https://ipfs.io/ipfs/QmdVDjU8pUVxo12TtK1ruSFptr47saCJTEfyKEhrDiatui?filename=HE-ATTAC.jpeg",
+  "attributes": [
+    {
+      "trait-type": "EigenValue",
+      "value": "HE ATTACC"
+    }
+  ]
+}
